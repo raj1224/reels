@@ -1,7 +1,7 @@
 "use client";
 
 import { IKUpload } from "@imagekit/next";
-import { IKUploadResponse } from "imagekitio-next/dist/types/components/IKUpload/props";
+import { IKUploadResponse } from "@imagekit/next/dist/types/components/IKUpload/props";
 import { useState } from "react";
 import { Loader2 } from "lucide-react";
 
